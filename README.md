@@ -2,4 +2,4 @@
 
 Software protecting the decency of a victorian ball gown
 
-![connection schema](schema.png =870x910)
+<img src="./schema.png" width="400">
